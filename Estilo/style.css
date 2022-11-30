@@ -4,15 +4,34 @@
 }
 
 body{
-    background-color: aliceblue;
+    background-color: #acacff;
 }
 
 main{
-    background-color: rgb(135, 27, 236);
-    width: 500px;
+    background-color: white;
+    width: 555px;
     margin: auto;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 3px 3px 3px black;   
 }
 
+h1{
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+
+img.lado{
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
+}
 
